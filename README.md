@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# Trivia Quiz
 
 A new Flutter project.
 
